@@ -1,3 +1,4 @@
+//these are new arrivals
 import React from 'react';
 import '../App.css'; 
 
